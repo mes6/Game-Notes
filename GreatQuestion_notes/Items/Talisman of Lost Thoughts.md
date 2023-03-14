@@ -1,6 +1,6 @@
-Created from [[Memory Gems]], this talisman uses these gems to edit a person's memory with perfect control for upto 1 hour per day. 
+Created from [[Memory Gems]], this talisman uses these gems to edit a person's memory with perfect control for up to 1 hour per day. 
 
-Can only be used on people who have a memory gem in it's contruction.
+Can only be used on people who have a memory gem in it's construction.
 
 Once active, the wearer can target one or more of the talisman's subjects by directing their memories any way they wish during the next hour. The target must be within 100 ft and able to hear you.
 

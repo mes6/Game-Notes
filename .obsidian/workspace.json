@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "807a624cd735dcc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "71cc5de2be71eb3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4da75ebd26eff36",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea07c01d3e089ce2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d84919c5fe41f59d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b1874e56377ca3f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "753112efc3d371d5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "99f9b0f612670899",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "58cdc30783ec1558",
+    "type": "split",
+    "children": [
+      {
+        "id": "668e863e6eabcff6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "188aac54f9899b7b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c08f641a6901bbec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "853296b702d01bf9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d07cd9f146bae25c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8b1874e56377ca3f",
+  "lastOpenFiles": [
+    "GreatQuestion_notes/Plans/Dementia's Plans.md",
+    "Nature's Aspirant.md",
+    "GreatQuestion_notes/Items/Talisman of Lost Thoughts.md",
+    "GreatQuestion_notes/Items/Memory Gems.md",
+    "GreatQuestion_notes/Characters/Rot.md",
+    "GreatQuestion_notes/Characters/Dementia Malidict.md",
+    "GreatQuestion_notes/Characters/Backstories/Chess's Downfall.md"
+  ]
+}

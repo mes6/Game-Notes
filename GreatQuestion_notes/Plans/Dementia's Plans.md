@@ -17,9 +17,9 @@ Coerce the players into these things in order
 - Kill anyone who knows of [[Chess's Downfall]]
 	- Implied Previous murders - insinuate that [[Rot]] helped kill many
 		- "Don't think this is the first time you've killed for me"
-		- "There ince was a time we'd kill for each other without a word being said - now we're reduced to this..."
+		- "There once was a time we'd kill for each other without a word being said - now we're reduced to this..."
 	- Unnamed 'Feywilde Scientist' : 
-		- Knew of [[Rot]] as Conquerer and Chess as [[Rot]]'s second in command
+		- Knew of [[Rot]] as Conqueror and Chess as [[Rot]]'s second in command
 	- [[Smokey Joe]] : 
 		- Knows [[Dementia Malidict]] bought [[Rot]]'s [[Memory Gems]]
 		- Works for rival collector of [[Divine Remains]] | [[Malerie]]
@@ -37,10 +37,10 @@ Coerce the players into these things in order
 - Create [[Nature's Aspirant]]
 	1) Infuse [[Omitaomu]] with [[Divine Remains]]
 	2) Use collected [[Memory Gems]] to force worship of the masses and activate Divine Power
-	3) Assume position of High Willweaver, Emmisary of [[Nature's Aspirant]]
+	3) Assume position of High Willweaver, Emissary of [[Nature's Aspirant]]
 
-## Phase 5 - Consumate My Corrination
-- Make PCs Perform a truely evil act
+## Phase 5 - Consummate My Coronation
+- Make PCs Perform a truly evil act
 	- Have [[Nature's Aspirant]] consume the 'Marked Prince'
 		- This is the original leader of [Rot]'s homeland and has the [[Original Memory Gem]] embedded in his body. Having [[Omitaomu]] aka [[Nature's Aspirant]] over take that will give instant and complete mental dominance over all earth genasi
 - Destroy [[Misty Valley]]'s Princedom , ending the [[Princedom Wars]] and killing all opposed to my rule
