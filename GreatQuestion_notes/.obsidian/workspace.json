@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6f094e6f1ab1edcb",
+            "id": "a24c95c0079b1305",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plans/Dementia's Plans.md",
+                "file": "Quest Settings/Village of the Damned/Felicity Mills - Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plans/Dementia's Plans.md",
+                "file": "Quest Settings/Village of the Damned/Felicity Mills - Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plans/Dementia's Plans.md",
+                "file": "Quest Settings/Village of the Damned/Felicity Mills - Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -125,12 +125,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plans/Dementia's Plans.md"
+                "file": "Quest Settings/Village of the Damned/Felicity Mills - Overview.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -146,30 +145,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f094e6f1ab1edcb",
+  "active": "a24c95c0079b1305",
   "lastOpenFiles": [
-    "Game-Notes",
-    "Items/Talisman of Lost Thoughts.md",
+    "Major Characters/Backstories/Rot_background.png",
+    "Quest Settings/Village of the Damned/Felicity Mills - Overview.md",
+    "Old Towne.md",
     "Items/Memory Gems.md",
-    "Characters/Dementia Malidict.md",
-    "Characters/Backstories/Chess's Downfall.md",
+    "Major Characters/Dementia Malidict.md",
+    "Major Characters/Backstories/Chess's Downfall.md",
+    "Misty Valley.md",
     "Plans/Dementia's Plans.md",
+    "Original Memory Gem.md",
+    "Princedom War.md",
+    "Major Characters/Rot.md",
+    "Quest Settings/Village of the Damned/Village NPCs",
+    "Quest Settings",
+    "Quest Settings/Village of the Damned",
+    "2023-03-17.md",
+    "Untitled.canvas",
+    "Items/Talisman of Lost Thoughts.md",
+    "Game-Notes",
     "Nature's Vengence.md",
-    "Untitled.md",
     "Chess's.md",
     "[Chess's.md",
     "[[Chess's.md",
-    "Characters/Rot.md",
-    "Characters/Backstories/Rot_background.png",
     "Rot_background.png",
     "Characters/Backstories/'s background.png",
     "Characters/Backstories/Rot.png",
     "[[Chess.md",
     "Chess.md",
-    "Characters/Backstories",
+    "Major Characters/Backstories",
     "Plans",
-    "Characters",
-    "Items",
-    "Untitled.canvas"
+    "Major Characters",
+    "Items"
   ]
 }

@@ -18,7 +18,7 @@ Coerce the players into these things in order
 	- Implied Previous murders - insinuate that [[Rot]] helped kill many
 		- "Don't think this is the first time you've killed for me"
 		- "There once was a time we'd kill for each other without a word being said - now we're reduced to this..."
-	- Unnamed 'Feywilde Scientist' : 
+	- Unnamed ' #Feywilde Scientist' : 
 		- Knew of [[Rot]] as Conqueror and Chess as [[Rot]]'s second in command
 	- [[Smokey Joe]] : 
 		- Knows [[Dementia Malidict]] bought [[Rot]]'s [[Memory Gems]]
@@ -42,5 +42,5 @@ Coerce the players into these things in order
 ## Phase 5 - Consummate My Coronation
 - Make PCs Perform a truly evil act
 	- Have [[Nature's Aspirant]] consume the 'Marked Prince'
-		- This is the original leader of [Rot]'s homeland and has the [[Original Memory Gem]] embedded in his body. Having [[Omitaomu]] aka [[Nature's Aspirant]] over take that will give instant and complete mental dominance over all earth genasi
-- Destroy [[Misty Valley]]'s Princedom , ending the [[Princedom Wars]] and killing all opposed to my rule
+		- This is the original leader of [Rot]'s homeland and has the [Original Memory Gem] embedded in his body. Having [[Omitaomu]] aka [[Nature's Aspirant]] over take that will give instant and complete mental dominance over all earth genasi
+- Destroy [[Misty Valley]]'s Princedom , ending the [Princedom War]s and killing all opposed to my rule
