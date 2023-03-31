@@ -9,6 +9,7 @@ Aesthetic: Originally a farming and milling community converted to a industrial 
 ## Backstory
 Once a farming village in the [[Misty Valley]], [[Felicity Mills]] has long since been overrun by the ravages of war and industry. 
 During the first [Princedom War], many brave genasi and eladrin volunteered to defend their homes (including [[Rot]]hanial and [Chess]). Although they returned victorious, a major deposit of rare crystalline Reminite (needed to make [[Memory Gems]]) had been found directly under the village center, so a mine was constructed - demolishing and taking over a third of what came to be called [Old Towne].
+Seeing the destruction and mistreatment of his home town after the war, [[Rot]]hanial gathered his remaining loyal warriors and lead an unsuccessful rebellion against his Prince. Nearly all his allies were brutally slaughtered on the battlefield, and those that were not were captured and tossed into a hellfire pit to be burned alive while as a warning to others who may want to try an uprising.
 
 
 ## Key Villagers
@@ -65,10 +66,11 @@ has mine entrance?
 		- This is where the 'rebel warriors' of the 2nd Princedom War were thrown and burnt. There is no official plaque or sign, but if the PCs investigate, they will find lots of hand written goodbyes and love poems to the lost 'heroes'
 			- "May you find a safe home in the next life as you tried to give us one in this"
 			- "Your fight was just in a world that can't be"
+		
 			-One note is painted in blood on a shield bearing a blacked and disfigured symbol of the Prince:
 			- "Though you were felled to save me - It was I that failed you - Never again. ~General Warmaster Rothaniel"
 			-On the back of the shield, facing the pit, is a second bloody note. This one written in different, more elegant handwriting
-			- "Travel in Peace Brothers and Sisters - Lasting vengeance shall be yours ~ Chess "
+			- "Travel in Peace Brothers and Sisters - Lasting vengeance shall be yours - No matter the cost! ~ Chess "
 
 [Gem Mine]
 "Abandoned Min~~e~~d" mine sign
